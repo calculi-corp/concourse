@@ -21,8 +21,8 @@ require (
 	github.com/concourse/flag v1.1.0
 	github.com/concourse/go-archive v1.0.1
 	github.com/concourse/retryhttp v1.1.1
-	github.com/containerd/containerd v1.6.2
-	github.com/containerd/go-cni v1.1.4
+	github.com/containerd/containerd v1.6.6
+	github.com/containerd/go-cni v1.1.6
 	github.com/containerd/typeurl v1.0.2
 	github.com/coreos/go-iptables v0.6.0
 	github.com/cppforlife/go-semi-semantic v0.0.0-20160921010311-576b6af77ae4
@@ -56,7 +56,7 @@ require (
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.19.0
-	github.com/opencontainers/runc v1.1.1
+	github.com/opencontainers/runc v1.1.2
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/peterhellberg/link v1.1.0
@@ -85,7 +85,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220328115105-d36c6a25d886
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.46.0
 	gopkg.in/square/go-jose.v2 v2.6.0
@@ -111,7 +111,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
 	github.com/Masterminds/sprig/v3 v3.2.2 // indirect
 	github.com/Microsoft/go-winio v0.5.1 // indirect
-	github.com/Microsoft/hcsshim v0.9.2 // indirect
+	github.com/Microsoft/hcsshim v0.9.3 // indirect
 	github.com/VividCortex/ewma v1.1.1 // indirect
 	github.com/beevik/etree v1.1.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -124,7 +124,7 @@ require (
 	github.com/containerd/continuity v0.2.2 // indirect
 	github.com/containerd/fifo v1.0.0 // indirect
 	github.com/containerd/ttrpc v1.1.0 // indirect
-	github.com/containernetworking/cni v1.0.1 // indirect
+	github.com/containernetworking/cni v1.1.1 // indirect
 	github.com/coreos/go-oidc/v3 v3.1.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dexidp/dex/api/v2 v2.1.0 // indirect
@@ -172,8 +172,8 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/opencontainers/image-spec v1.0.2 // indirect
-	github.com/opencontainers/selinux v1.10.0 // indirect
+	github.com/opencontainers/image-spec v1.0.3-0.20211202183452-c5a74bcca799 // indirect
+	github.com/opencontainers/selinux v1.10.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.32.1 // indirect
