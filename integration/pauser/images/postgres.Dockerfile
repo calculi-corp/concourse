@@ -1,4 +1,4 @@
-ARG postgres_image=postgres
+ARG postgres_image=bitnami/postgresql
 FROM ${postgres_image} AS base
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
